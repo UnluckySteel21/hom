@@ -1,0 +1,5 @@
+Projekta darbs programmēšanā "GUI datubāze autoservisam"
+sākts 14.09.2023
+
+-v0.1
+	Pievienota klase automašīnām un uzsākts darbs ar GUI izstrādi.
