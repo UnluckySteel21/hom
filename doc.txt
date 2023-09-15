@@ -3,3 +3,6 @@ sākts 14.09.2023
 
 -v0.1
 	Pievienota klase automašīnām un uzsākts darbs ar GUI izstrādi.
+
+-v0.2
+	Uzsākta iedavrindas pievienošana. Neliela optimizācija mašīnu klasei.
