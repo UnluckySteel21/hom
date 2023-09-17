@@ -9,3 +9,6 @@ sākts 14.09.2023
 
 -0.3
 	Izstrādāta un pilnveida klase. Programma pieņem Ievaddatus.
+
+-0.4 
+	Sākuma ekrāna izstrtāde. Pievienoti fonti, nedaudz uzlabots izskats, datuma un laika automatizēta attēlošana, idenfikācijas koda ģenerēšana.
