@@ -6,3 +6,6 @@ sākts 14.09.2023
 
 -v0.2
 	Uzsākta iedavrindas pievienošana. Neliela optimizācija mašīnu klasei.
+
+-0.3
+	Izstrādāta un pilnveida klase. Programma pieņem Ievaddatus.
